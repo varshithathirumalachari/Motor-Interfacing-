@@ -87,6 +87,8 @@ void loop() {
 }
 ```
 ## CIRCUIT DIAGRAM:
+![o](https://user-images.githubusercontent.com/113031811/235618752-c40db7f1-bb35-4458-b303-8d7ddc40adb4.jpeg)
 ## OUTPUT:
+![o](https://user-images.githubusercontent.com/113031811/235618847-0083c408-e696-4993-8945-18d9c66a206d.jpeg)
 ## RESULT:
 Thus the motor was controlled using driver circuits, relays and Arduino UNO controller.
